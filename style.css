@@ -1,0 +1,53 @@
+body {
+  /*background-image: url('Logo_Agathon\ Treinamentos\ -\ Principal.png');*/
+  background-position: 380px 150px;
+  background-repeat: no-repeat;
+  background-color: 100%;
+  margin: auto;
+  background-color:rgb(255, 255, 255);
+  font-family: Poppins;
+  font-weight: bold;
+}
+
+.main-container {
+    text-align: center;
+}
+
+.content {
+    border: 1px solid none;
+    border-radius: 12px;
+    width: 90%;
+    height: 800px;
+    margin:auto;
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 32px;
+}
+
+table{
+    border-radius: 6px;
+    border:none;
+    border-collapse:collapse;
+    background-color: #3f444483;
+    text-align: center;
+    margin: auto;
+    margin-top: -20px;
+    height: 400px;
+    width: 1000px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(138,138,138,1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(138,138,138,1);
+    box-shadow: 10px 10px 5px 0px rgba(138,138,138,1);
+} 
+
+.whatsapp {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+
+.agathon {
+    width: 500px;
+}
+
